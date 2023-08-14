@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shreyeah38
-- 👀 I’m interested in Web Development and C++ coding. 
-- 🌱 I’m currently learning C++ and JavaScript 
-- 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me? Email - shreyarai2512@gmail.com
+- 👋 Hi, My Name is Shreya 
+- 👀 I’m interested in Web Designing and Development. 
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking forward to collaborating on Web Development projects
+- 📫 How to reach me? Email - shreyarai0308@gmail.com
 
 <!---
 shreyeah38/shreyeah38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
